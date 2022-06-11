@@ -7,16 +7,16 @@
 ## ⚙️ How we built it
 
 - React Js: For frontend
-- Firebase: For backend
-- Hedera: For
-- Tensorflow.s: For ML and disease prediction
+- Solidity: For smart contract
+- Hedera: For deploying Smart Contract
+- Tensorflow.js: For ML and disease prediction
 - Google Teachable Machine: For training the model
 - i18n: For multi-language support
 - Tailwind: For styling and animations
 
 ## 🔐 Best Blockchain Project Using Hedera
 
-We are using Hedera’s testnet to make **what we are using t for**. Hedera is a decentralized public network that utilizes the Hashgraph consensus algorithm to overcome the traditional limitations of blockchain and allow one to create the next era of fast, fair, and secure applications.
+We are using Hedera’s testnet to **deploy smart contracts** for our app. Hedera is a decentralized public network that utilizes the Hashgraph consensus algorithm to overcome the traditional limitations of blockchain and allow one to create the next era of fast, fair, and secure applications.
 
 ## 🌐 Best Domain Name from GoDaddy Registry [APAC Only]
 
