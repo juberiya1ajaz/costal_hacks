@@ -1,4 +1,4 @@
-# APP NAME
+# Explorer l'océan
 
 ## 💡 Inspiration
 
@@ -41,7 +41,7 @@ We are using Hedera’s testnet to **deploy smart contracts** for our app. Heder
 - Efficient use of GitHub actions.
 - Using Google Teachable Machine to train the model.
 
-## 🚀 What's next for APP NAME
+## 🚀 What's next for Explorer l'océan
 
 - Improving the accuracy of the model.
 - Building a mobile app
