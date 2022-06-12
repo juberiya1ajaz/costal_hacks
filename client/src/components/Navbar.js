@@ -85,7 +85,7 @@ export default function Navbar() {
                         </Link>
 
                         <Link to="/gallery">
-                            <span className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-secondary cursor-pointer text-white">Gallery</span>
+                            <span className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-secondary cursor-pointer text-white">NFT Gallery</span>
                         </Link>
 
                         <Link to="/visits">
