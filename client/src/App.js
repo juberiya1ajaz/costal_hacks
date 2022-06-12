@@ -5,6 +5,7 @@ import Upload from './pages/Upload';
 import MyNFT from './pages/MyNFT';
 import Gallery from './pages/Gallery';
 import Visits from './pages/Visits';
+import Profile from './pages/Profile';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Route path="/nft/my-nfts" element={<MyNFT />} />
         <Route path="/gallery" element={<Gallery />} />
         <Route path="/visits" element={<Visits />} />
+        <Route path="/profile" element={<Profile />} />
       </Routes>
     </BrowserRouter>
   );

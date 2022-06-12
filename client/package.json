@@ -12,6 +12,7 @@
     "clsx": "^1.1.1",
     "eth-revert-reason": "^1.0.3",
     "ethers": "^5.5.1",
+    "hash-sdk": "^2.1.9",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-dropzone": "^11.3.4",
