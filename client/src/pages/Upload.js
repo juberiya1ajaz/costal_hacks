@@ -19,9 +19,9 @@ export default function Upload() {
                 <CleanBeach />
             </div>
 
-            <div className="grid place-items-center py-5">
+            <div className="grid place-items-center py-2">
                 <Link to="/nft/my-nfts">
-                    <button className='bg-secondary py-2 px-8 rounded-md text-xl md:text-2xl'>My NFT's</button>
+                    <button className='bg-secondary py-2 px-8 rounded-md text-xl md:text-2xl text-white'>My NFT's</button>
                 </Link>
             </div>
 
