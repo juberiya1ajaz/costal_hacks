@@ -5,7 +5,7 @@ import { HiOutlineMenuAlt3, HiX } from "react-icons/hi";
 
 export default function Navbar() {
 
-    const { connectWallet } = useContext(TransactionContext);
+    const { currentAccount, connectWallet } = useContext(TransactionContext);
     const [showNavbar, setShowNavbar] = React.useState(false);
 
     return (
@@ -98,9 +98,11 @@ export default function Navbar() {
                             <span className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-secondary cursor-pointer text-white">Profile</span>
                         </Link>
 
+                        {!currentAccount && (
                         <button className='bg-[#6F5DE0] text-white py-2 px-8 rounded-md' onClick={connectWallet}>
                             Connect Wallet
                         </button>
+                        )}
 
                     </div>
                 </div>
